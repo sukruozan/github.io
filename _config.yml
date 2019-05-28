@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Şükrü Ozan / sukruozan.com "
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Şükrü Ozan, Ph.D."
+  avatar           : "my_profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
