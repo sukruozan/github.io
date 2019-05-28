@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Şükrü Ozan / sukruozan.com "
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Şükrü Ozan"
 description              : &description "personal description"
 url                      : https://sukruozan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -89,7 +89,8 @@ author:
   googlescholar    : "https://scholar.google.com.tr/citations?user=M3vMfZgAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.adresgezgini.com"
+  uri              : "https://www.digimost.de"
   bitbucket        :
   codepen          :
   dribbble         :
