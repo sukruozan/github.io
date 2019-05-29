@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Şükrü Ozan, Ph.D."
   avatar           : "my_profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Still learning..."
   location         : "İzmir, TURKEY"
+  linkedin         : "sukruozan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tr/citations?user=M3vMfZgAAAAJ&hl=en"
@@ -102,7 +103,6 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sukruozan"
   orcid            : "https://orcid.org/0000-0002-3227-348X"
   pinterest        :
   soundcloud       :
