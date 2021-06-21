@@ -1,2 +1,0 @@
-# sukruozan.github.io
-My Personal Website
