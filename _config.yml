@@ -15,19 +15,20 @@ website: http://www.sukruozan.com
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+linkedin_username: sukruozan
+github_username:  sukruozan
+twitter_username: sukruozan
+instagram_username: sukruozan
+youtube_username: sukruozan
+orcid_username: 0000-0002-3227-348X
+
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
