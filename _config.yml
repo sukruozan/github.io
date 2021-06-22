@@ -190,7 +190,7 @@ content:
           Ozan Ş , Gümüştekin Ş . Enhancing stereo matching performance by colour normalisation and specularity removal, 2011; 47(20): 1124-1125.
         description: |
           <mark>Abstract:</mark> A method to enhance the performance of stereo matching is presented. The position of the specular light reflection on an object surface varies due to the change in the position of the camera, light source, object or all combined. Additionally, there may be situations exhibiting a colour shift owing to a change in the light source chromaticity or camera white balance settings. These variations cause misleading results when stereo matching algorithms are applied. In this reported work, a single-image-based statistical method is used to normalise source images. This process effectively eliminates non-saturated specularities regardless of their positions on the object. The effect of specularity removal is tested on stereo image pairs.
-          - title: Projects
+    - title: Projects
     layout: list
     content:
       - layout: left
