@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Papers PAge
-exclude: true
+title: Papers Page
+permalink: /papers/
 ---
        
         {% for paper in site.data.papers %}
