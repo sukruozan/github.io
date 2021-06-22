@@ -155,10 +155,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           [My MSc Thesis](https://openaccess.iyte.edu.tr/handle/11147/3304)          
 
-  # - title: Publications
-  #   layout: list
-  #   content:
-  #     - layout: top-middle
+  - title: Publications
+    layout: default
+    content:
+      - layout: default
+        title: Case studies on using natural language processing techniques in customer relationship management software
+        authors: Şükrü Ozan
+        publication: Journal of Fancy Research
+        year: 2021
+        doi: http://dx.doi.org/XX.XXX/
 
 
   - title: Projects # Title for the section
