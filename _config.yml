@@ -163,7 +163,7 @@ content:
         quote: > 
           Journal of Fancy Research        
         description: |
-        by Şükrü Ozan [doi](http://dx.doi.org/XX.XXX/)
+          by Şükrü Ozan [doi](http://dx.doi.org/XX.XXX/)
 
 
   - title: Projects # Title for the section
