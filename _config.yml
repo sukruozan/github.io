@@ -183,7 +183,17 @@ content:
           Ozan Ş , Gümüştekin Ş . Calibration of double stripe 3D laser scanner systems using planarity and orthogonality constraints, Digital Signal Processing,2014; 24: 231-243.
         description: |
           <mark>Abstract:</mark> In this study, 3D scanning systems that utilize a pair of laser stripes are studied. Three types of scanning systems are implemented to scan environments, rough surfaces of near planar objects and small 3D objects. These scanners make use of double laser stripes to minimize the undesired effect of occlusions. Calibration of these scanning systems is crucially important for the alignment of 3D points which are reconstructed from different stripes. In this paper, the main focus is on the calibration problem, following a treatment on the pre-processing of stripe projections using dynamic programming and localization of 2D image points with sub-pixel accuracy. The 3D points corresponding to laser stripes are used in an optimization procedure that imposes geometrical constraints such as coplanarities and orthogonalities. It is shown that, calibration procedure proposed here, significantly improves the alignment of 3D points scanned using two laser stripes.
-
+    - title: Projects
+      layout: list
+      content:
+        - layout: left
+        title: TEYDEB 1507
+        sub_title: Project Manager
+        caption: <mark>Date:</mark> 15.12.2017
+        quote: >
+          TEYDEB 1507 is a public supported SME R&D Project support granted by TÜBİTAK (i.e. The Scientific and Technological Research Council of Turkey is a national agency of Turkey whose stated goal is to develop "science, technology and innovation" policies, support and conduct research and development, and to "play a leading role in the creation of a science and technology culture" in the country.)
+        description: | # this will include new lines to allow paragraphs
+          <mark>Project Title:</mark> DEVELOPMENT OF A SYSTEM TO DETECT FAKE CALLS BY CLASSIFYING RECORDINGS OF CALL CENTER TELEPHONE CALLS THROUGH MACHINE LEARNING
 
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -217,7 +227,7 @@ content:
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
