@@ -63,7 +63,7 @@ content:
         quote: >
           İzmir Institute of Technology is a public research university in İzmir, Turkey. İYTE maintains a strong emphasis on the natural sciences and engineering and is the only institute of its kind in Turkey with a special focus on scientific research
         description: | # this will include new lines to allow paragraphs
-          [My PhD Thesis] (https://openaccess.iyte.edu.tr/handle/11147/4341)
+          [My PhD Thesis](https://openaccess.iyte.edu.tr/handle/11147/4341)
       - layout: left
         title: İzmir Institute of Technology
         caption: 2002 - 2006
@@ -71,7 +71,7 @@ content:
         quote: >
           İzmir Institute of Technology is a public research university in İzmir, Turkey. İYTE maintains a strong emphasis on the natural sciences and engineering and is the only institute of its kind in Turkey with a special focus on scientific research
         description: | # this will include new lines to allow paragraphs
-          [My MSc Thesis] (https://openaccess.iyte.edu.tr/handle/11147/3304)
+          [My MSc Thesis](https://openaccess.iyte.edu.tr/handle/11147/3304)
 
 
   - title: Projects # Title for the section
