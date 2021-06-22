@@ -153,18 +153,17 @@ content:
         quote: >
           Middle East Technical University is a public technical university located in Ankara, Turkey. The university puts emphasis on research and education in engineering and natural sciences, offering about 40 undergraduate programs within 5 faculties, 97 masters and 62 doctorate programs within 5 graduate schools
         description: | # this will include new lines to allow paragraphs
-          [My MSc Thesis](https://openaccess.iyte.edu.tr/handle/11147/3304)          
-
+          Lorem Ipsum
   - title: List of Journal Articles
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
+        title:  Journal of Intelligent Information Systems
         sub_title: Case studies on using natural language processing techniques in customer relationship management software
         quote: > 
-          Journal of Fancy Research        
+          Ozan, Ş. Case studies on using natural language processing techniques in customer relationship management software. J Intell Inf Syst 56, 233–253 (2021). [DOI](https://doi.org/10.1007/s10844-020-00619-4){:target="_blank"}       
         description: |
-          by Şükrü Ozan [doi](http://dx.doi.org/XX.XXX/)
-
+          <mark>Abstract:</mark> How can we use a text corpus stored in a customer relationship management (CRM) database for data mining and segmentation? To answer this question, we inherited the state of the art methods commonly used in natural language processing (NLP) literature, such as word embeddings, and deep learning literature, such as recurrent neural networks (RNN). We used the text notes from a CRM system taken by customer representatives of an internet ads consultancy agency between 2009 and 2020. We trained word embeddings by using the corresponding text corpus and showed that these word embeddings could be used directly for data mining and used in RNN architectures, which are deep learning frameworks built with long short-term memory (LSTM) units, for more comprehensive segmentation objectives. The obtained results prove that we can use structured text data populated in a CRM to mine valuable information. Hence, any CRM can be equipped with useful NLP features once we correctly built the problem definitions and conveniently implement the solution methods.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
