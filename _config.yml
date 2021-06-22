@@ -156,9 +156,9 @@ content:
           [My MSc Thesis](https://openaccess.iyte.edu.tr/handle/11147/3304)          
 
   - title: Publications
-    layout: default
+    layout: list
     content:
-      - layout: default
+      - layout: top-middle
         title: Case studies on using natural language processing techniques in customer relationship management software
         authors: Şükrü Ozan
         publication: Journal of Fancy Research
