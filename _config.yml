@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Şükrü Ozan, Ph.D.
 title: Vice Chairman, R&D Center Director
-email: sukruozan
-website: www.github.com/sproogen/resume-theme
+email: sukruozan@gmail.com
+website: http://www.sukruozan.com
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -31,9 +31,9 @@ linkedin_username: sukruozan
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: Şükrü Ozan @ AdresGezgini Inc.
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://www.adresgezgini.com/ekibimiz/sukru-ozan
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
