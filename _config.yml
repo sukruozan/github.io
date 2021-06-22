@@ -65,8 +65,8 @@ content:
         link_text: adresgezgini.com
         sub_title: Vice President - R&D Center Director
         caption: 2016 - Present
-        quote: >
-          AdresGezgini Inc. is a search engine advertising agency that provides digital marketing solutions.
+#        quote: >
+#          AdresGezgini Inc. is a search engine advertising agency that provides digital marketing solutions.
         description: | # this will include new lines to allow paragraphs
             AdresGezgini Inc.'s core business areas are digital marketing solutions and web based software development projects. The sector, in which our company is located, remains as one of the brightest sectors of the future that is taking the place of traditional promotional campaigns and business management solutions, with a steady growth of over 20% every year in Turkey. Our company is in a very valuable position with its certified professional staff, its accumulated knowledge and high level of customer satisfaction that is being offered. AdresGezgini follows the latest technological trends in internet technologies with its experience and its R&D projects. By being constantly up-to date on its own workflow processes with using the latest technology, AdresGezgini offers consulting and project-based services on new internet technologies to thousands of businesses in its portfolio.
       - layout: left
@@ -75,10 +75,10 @@ content:
         link_text: adresgezgini.com
         sub_title: Co-Founder
         caption: 2005 - 2016
-        quote: >
-          AdresGezgini Inc. is a search engine advertising agency that provides digital marketing solutions.
+#        quote: >
+#          AdresGezgini Inc. is a search engine advertising agency that provides digital marketing solutions.
         description: | # this will include new lines to allow paragraphs
-            AdresGezgini Inc.'s core business areas are digital marketing solutions and web based software development projects. The sector, in which our company is located, remains as one of the brightest sectors of the future that is taking the place of traditional promotional campaigns and business management solutions, with a steady growth of over 20% every year in Turkey. Our company is in a very valuable position with its certified professional staff, its accumulated knowledge and high level of customer satisfaction that is being offered. AdresGezgini follows the latest technological trends in internet technologies with its experience and its R&D projects. By being constantly up-to date on its own workflow processes with using the latest technology, AdresGezgini offers consulting and project-based services on new internet technologies to thousands of businesses in its portfolio.
+            AdresGezgini Ltd. was the title when we officially established the company in 2006 with the other co-founders.
 
       - layout: left
         title: İzmir Institute of Technology
@@ -104,8 +104,7 @@ content:
         quote: >
           Yaşar University is a university, in Izmir, Turkey on the Aegean Sea. The university faculty teaches in English, with programs at both the undergraduate and postgraduate level.
         description: | # this will include new lines to allow paragraphs
-          The aim of COMP4360s is to provide an introduction to image processing. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, image compression and their applications. We will not stick with a unique text book, but it is recommended to have the book below in your library, if you are interested in image processing literature. We will be using Python programming language. The exact version is Python 3.6.
-      - layout: left
+          COMP4360 aims to provide an introduction to image processing. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, image compression, and their applications using standard python libraries such as "pillow".      - layout: left
         title: İzmir Katip Çelebi University
         link: https://mee404.github.io/
         link_text: MEE404
@@ -114,9 +113,7 @@ content:
         quote: >
           İzmir Kâtip Çelebi University is a public university in İzmir, Turkey, established in 2010.        
         description: | # this will include new lines to allow paragraphs
-          The aim of COMP4360s is to provide an introduction to image processing. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, image compression and their applications. We will not stick with a unique text book, but it is recommended to have the book below in your library, if you are interested in image processing literature. We will be using Python programming language. The exact version is Python 3.6.
-      - layout: left
-        title: Manisa Celal Bayar University
+          MEE404 aims to introduce the aspects of image processing to mechatronics engineering students. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, image compression, and their applications. It also gives the basics of the python language.        title: Manisa Celal Bayar University
         link: https://www.mcbu.edu.tr/
         link_text: CSE3113
         sub_title: Visiting Lecturer @ Computer Engineering Department
@@ -124,8 +121,7 @@ content:
         quote: >
           Manisa Celal Bayar University or is a public research university located in Manisa, Turkey. CBU traces its root back to 1959 as an independent sports and teachers' college in Manisa. The main campus is in Muradiye district of Manisa. The university is composed of 14 colleges, 3 schools, and 15 vocational schools.   
         description: | # this will include new lines to allow paragraphs
-          The aim of COMP4360s is to provide an introduction to image processing. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, image compression and their applications. We will not stick with a unique text book, but it is recommended to have the book below in your library, if you are interested in image processing literature. We will be using Python programming language. The exact version is Python 3.6.
-
+          MEE404 aims to introduce the aspects of image processing to computer engineering students.  The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, image compression, and their applications using standard python libraries such as "pillow".
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
