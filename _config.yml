@@ -34,6 +34,9 @@ additional_links:
 - title: Şükrü Ozan @ AdresGezgini Inc.
   icon: fas fa-globe
   url: https://www.adresgezgini.com/ekibimiz/sukru-ozan
+- title: Google Scholar
+  icon: fa fa-google
+  url: https://scholar.google.com/citations?user=M3vMfZgAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -103,7 +106,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           The aim of COMP4360s is to provide an introduction to image processing. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, image compression and their applications. We will not stick with a unique text book, but it is recommended to have the book below in your library, if you are interested in image processing literature. We will be using Python programming language. The exact version is Python 3.6.
       - layout: left
-        title: İzmir Katip Çelebil University
+        title: İzmir Katip Çelebi University
         link: https://mee404.github.io/
         link_text: MEE404
         sub_title: Visiting Lecturer @ Mechatronics Engineering Department
@@ -112,6 +115,18 @@ content:
           İzmir Kâtip Çelebi University is a public university in İzmir, Turkey, established in 2010.        
         description: | # this will include new lines to allow paragraphs
           The aim of COMP4360s is to provide an introduction to image processing. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, image compression and their applications. We will not stick with a unique text book, but it is recommended to have the book below in your library, if you are interested in image processing literature. We will be using Python programming language. The exact version is Python 3.6.
+      - layout: left
+        title: Manisa Celal Bayar University
+        link: https://www.mcbu.edu.tr/
+        link_text: CSE3113
+        sub_title: Visiting Lecturer @ Computer Engineering Department
+        caption: 2017
+        quote: >
+          Manisa Celal Bayar University or is a public research university located in Manisa, Turkey. CBU traces its root back to 1959 as an independent sports and teachers' college in Manisa. The main campus is in Muradiye district of Manisa. The university is composed of 14 colleges, 3 schools, and 15 vocational schools.   
+        description: | # this will include new lines to allow paragraphs
+          The aim of COMP4360s is to provide an introduction to image processing. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, image compression and their applications. We will not stick with a unique text book, but it is recommended to have the book below in your library, if you are interested in image processing literature. We will be using Python programming language. The exact version is Python 3.6.
+
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
