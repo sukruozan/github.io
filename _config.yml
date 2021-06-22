@@ -61,11 +61,33 @@ content:
         link: https://www.adresgezgini.com/en/
         link_text: adresgezgini.com
         sub_title: Vice President - R&D Center Director
-        caption: 2015 - Present
+        caption: 2016 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          AdresGezgini Inc. is a search engine advertising agency that provides digital marketing solutions.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            AdresGezgini Inc.'s core business areas are digital marketing solutions and web based software development projects. The sector, in which our company is located, remains as one of the brightest sectors of the future that is taking the place of traditional promotional campaigns and business management solutions, with a steady growth of over 20% every year in Turkey. Our company is in a very valuable position with its certified professional staff, its accumulated knowledge and high level of customer satisfaction that is being offered. AdresGezgini follows the latest technological trends in internet technologies with its experience and its R&D projects. By being constantly up-to date on its own workflow processes with using the latest technology, AdresGezgini offers consulting and project-based services on new internet technologies to thousands of businesses in its portfolio.
+      - layout: left
+        title: AdresGezgini Ltd.
+        link: https://www.adresgezgini.com/en/
+        link_text: adresgezgini.com
+        sub_title: Co-Founder
+        caption: 2005 - 2016
+        quote: >
+          AdresGezgini Inc. is a search engine advertising agency that provides digital marketing solutions.
+        description: | # this will include new lines to allow paragraphs
+            AdresGezgini Inc.'s core business areas are digital marketing solutions and web based software development projects. The sector, in which our company is located, remains as one of the brightest sectors of the future that is taking the place of traditional promotional campaigns and business management solutions, with a steady growth of over 20% every year in Turkey. Our company is in a very valuable position with its certified professional staff, its accumulated knowledge and high level of customer satisfaction that is being offered. AdresGezgini follows the latest technological trends in internet technologies with its experience and its R&D projects. By being constantly up-to date on its own workflow processes with using the latest technology, AdresGezgini offers consulting and project-based services on new internet technologies to thousands of businesses in its portfolio.
+
+      - layout: left
+        title: İzmir Institute of Technology
+        link: https://en.iyte.edu.tr/
+        link_text: iyte.edu.tr
+        sub_title: Research Assistant
+        caption: 2004 - 2011
+        quote: >
+          İzmir Institute of Technology is a public research university in İzmir, Turkey. İYTE maintains a strong emphasis on the natural sciences and engineering and is the only institute of its kind in Turkey with a special focus on scientific research
+        description: | # this will include new lines to allow paragraphs
+          I workder as a research assistant in Electrical and Electronics Engineering Department between years 2004 and 2011. 
+
 
   - title: Teaching Experience
     layout: list
