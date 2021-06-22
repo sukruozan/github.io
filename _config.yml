@@ -127,7 +127,6 @@ content:
           The aim of COMP4360s is to provide an introduction to image processing. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, image compression and their applications. We will not stick with a unique text book, but it is recommended to have the book below in your library, if you are interested in image processing literature. We will be using Python programming language. The exact version is Python 3.6.
 
 
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -156,6 +155,20 @@ content:
         description: | # this will include new lines to allow paragraphs
           [My MSc Thesis](https://openaccess.iyte.edu.tr/handle/11147/3304)          
 
+  - title: Publications
+    layout: list
+    content:
+      - layout: top-middle
+        {% for paper in site.data.papers %}
+        {{ paper.authors }}
+        "{{ paper.title }}",
+        <em>{{ paper.journal }}</em>,
+        {{ paper.year }},
+        {% if paper.volume %} <strong>{{ paper.volume }}</strong>,{% endif %}
+        {{ paper.pages }}.
+        <a href="http://dx.doi.org/{{ paper.doi }}">[DOI]</a>
+        {% endfor %}
+    
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
