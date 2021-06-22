@@ -155,10 +155,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           [My MSc Thesis](https://openaccess.iyte.edu.tr/handle/11147/3304)          
 
-  - title: Publications
+  - title: List of Journal Articles
     layout: list
     content:
-      - layout: top-left
+      - layout: top-middle
         sub_title: Case studies on using natural language processing techniques in customer relationship management software
         quote: > 
           Journal of Fancy Research        
