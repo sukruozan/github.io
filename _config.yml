@@ -7,8 +7,7 @@ version: 2
 
 # Personal info
 name: Şükrü Ozan, Ph.D.
-title: Vice Chairman, R&D Center Director @ [AdresGezgini Inc.](https://www.adresgezgini.com/en/){:target="_blank"}
-email: sukruozan@gmail.com
+title: Vice Chairman, R&D Center Director @ AdresGezgini Inc.
 website: http://www.sukruozan.com
 
 # Dark Mode (true/false/never)
@@ -51,9 +50,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/my_profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Experienced Vice Chairman with a demonstrated history of working in the internet industry. 
-  Skilled in <mark>Research and Development (R&D)</mark>, Matlab, Computer Vision and Algorithms. 
-  Strong business development professional with a <mark>PhD</mark> focused in Electronics Engineering from İzmir Yüksek Teknoloji Enstitüsü.
+  First, I am a father of two boys, Erkan and Alp. I am a co-founder of [AdresGezgini Inc.](https://www.adresgezgini.com){:target="_blank"}. I received my Ph.D. in 2015 from the Electrical and Electronics Engineering Department of İzmir Institute of Technology.  I consider myself a full-time learner. 
 
 content:
   - title: Work Experience
@@ -78,7 +75,7 @@ content:
 #        quote: >
 #          AdresGezgini Inc. is a search engine advertising agency that provides digital marketing solutions.
         description: | # this will include new lines to allow paragraphs
-            AdresGezgini Ltd. was the title when we officially established the company in 2006 with the other co-founders.
+            AdresGezgini Ltd. was the corporate name when we officially established the company in 2006 with the other co-founders.
 
       - layout: left
         title: İzmir Institute of Technology
@@ -136,7 +133,31 @@ content:
         quote: >
           İzmir Institute of Technology is a public research university in İzmir, Turkey. İYTE maintains a strong emphasis on the natural sciences and engineering and is the only institute of its kind in Turkey with a special focus on scientific research
         description: | # this will include new lines to allow paragraphs
-          [My PhD Thesis](https://openaccess.iyte.edu.tr/handle/11147/4341){:target="_blank"}
+          <mark>PhD Thesis Abstract:</mark> In this thesis, we aim to capture realistic geometrical descriptions of real world
+          scenes and objects with a special effort to characterize reflection properties.
+          After a brief review of the stereo imaging literature, we show our contributions
+          to enhance stereo matching performance by identifying and eliminating specular surface
+          reflections. The identification of specular reflection can be done both passively and actively.
+          We use dichromatic-based methods to identify and eliminate specular reflections
+          passively. We utilize polarization imaging methods to do the same job actively.
+          In this work we also study structured light based methods that can give better
+          reconstruction results compared to stereo imaging methods. We propose three laser scanners
+          equipped with a pair of line lasers and a method to calibrate these systems. Another
+          convenient way to obtain good surface reconstruction results using structured light is to
+          use projectors that can be used as a light source that project complicated patterns. We
+          show our results from a digital camera-projector-based scanning system as well. This
+          system can robustly generate a very dense reconstruction of surfaces.
+          We also use the projector based scanning system to determine the surface reflection
+          properties. Using high dynamic range imaging (HDRI) techniques makes it possible
+          for us to estimate scene radiance values. Since we can determine the incoming and outgoing
+          light directions, we are able to measure bidirectional reflectance distribution function
+          (BRDF) values from reconstructed surface points for corresponding directions. If the
+          sample surface have not only diffuse reflection components but also a sufficient amount
+          of specular highlights, it is possible to approximate BRDF corresponding to a surface by
+          fitting an analytical BRDF model to the measured data. In our work we preferred to use
+          Phong BRDF model. Finally, we present results with rendered synthetic images where the parameter
+          values of the Phong model were estimated using scans of real objects.
+          [Link to My PhD Thesis](https://openaccess.iyte.edu.tr/handle/11147/4341){:target="_blank"}
       - layout: left
         title: İzmir Institute of Technology
         caption: 2002 - 2006
@@ -144,7 +165,8 @@ content:
         quote: >
           İzmir Institute of Technology is a public research university in İzmir, Turkey. İYTE maintains a strong emphasis on the natural sciences and engineering and is the only institute of its kind in Turkey with a special focus on scientific research
         description: | # this will include new lines to allow paragraphs
-          [My MSc Thesis](https://openaccess.iyte.edu.tr/handle/11147/3304){:target="_blank"}
+          <mark>MSc Thesis Abstract:</mark> Automatically recognizing and analyzing visual activities in complex nenvironments is a challenging and open-ended problem. In this thesis this problem domain is visited in a chess game scenario where the rules, actions and the environment are well defined. The purpose here is to detect and observe a FIDE (Federation International des Echecs) compatible chess board and to generate a log file of the moves made by human players. A series of basic image processing operations have been applied to perform the desired task. The first step of automatically detecting a chess board is followed by locating the positions of the pieces. After the initial setup is established every move made by a player is automatically detected and verified. A PC-CAM connected to a PC is used to acquire images and implement the corresponding software. For convenience, .Intel R Open Source Computer Vision Library (OpenCV). is used in the current software implementation.
+          [Link to My MSc Thesis](https://openaccess.iyte.edu.tr/handle/11147/3304){:target="_blank"}
       - layout: left
         title: Middle East Technical University
         caption: 1997 - 2002
@@ -152,7 +174,7 @@ content:
         quote: >
           Middle East Technical University is a public technical university located in Ankara, Turkey. The university puts emphasis on research and education in engineering and natural sciences, offering about 40 undergraduate programs within 5 faculties, 97 masters and 62 doctorate programs within 5 graduate schools
         description: | # this will include new lines to allow paragraphs
-          Lorem Ipsum
+
   - title: List of Journal Articles
     layout: list
     content:
