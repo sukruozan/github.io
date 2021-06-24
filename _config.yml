@@ -60,12 +60,18 @@ content:
         title: AdresGezgini Inc.
         link: https://www.adresgezgini.com/en/
         link_text: adresgezgini.com
-        sub_title: Vice President - R&D Center Director
-        caption: 2016 - Present
+        sub_title: R&D Center Director
+        caption: 2017 - Present
 #        quote: >
 #          AdresGezgini Inc. is a search engine advertising agency that provides digital marketing solutions.
         description: | # this will include new lines to allow paragraphs
-            AdresGezgini Inc.'s core business areas are digital marketing solutions and web based software development projects. The sector, in which our company is located, remains as one of the brightest sectors of the future that is taking the place of traditional promotional campaigns and business management solutions, with a steady growth of over 20% every year in Turkey. Our company is in a very valuable position with its certified professional staff, its accumulated knowledge and high level of customer satisfaction that is being offered. AdresGezgini follows the latest technological trends in internet technologies with its experience and its R&D projects. By being constantly up-to date on its own workflow processes with using the latest technology, AdresGezgini offers consulting and project-based services on new internet technologies to thousands of businesses in its portfolio.
+            AdresGezgini Inc.'s core business areas are digital marketing solutions and web based software development projects. The company was accredited as an R&D center by the Ministry of Industry and Technology of the Republic of Turkey in 2017.The sector, in which our company is located, remains as one of the brightest sectors of the future that is taking the place of traditional promotional campaigns and business management solutions, with a steady growth of over 20% every year in Turkey. Our company is in a very valuable position with its certified professional staff, its accumulated knowledge and high level of customer satisfaction that is being offered. AdresGezgini follows the latest technological trends in internet technologies with its experience and its R&D projects. By being constantly up-to date on its own workflow processes with using the latest technology, AdresGezgini offers consulting and project-based services on new internet technologies to thousands of businesses in its portfolio.
+      - layout: left
+        title: AdresGezgini Inc.
+        link: https://www.adresgezgini.com/en/
+        link_text: adresgezgini.com
+        sub_title: Vice President
+        caption: 2016 - Present
       - layout: left
         title: AdresGezgini Ltd.
         link: https://www.adresgezgini.com/en/
