@@ -191,7 +191,7 @@ content:
         link: https://doi.org/xx.xxx/xxxx
         link_text: DOI:xx.xxx/xxxx
         quote: > 
-          Ozan Ş. Taşar D.E. and Özdil U.  Deep Feature Generation for Author Identification. CBUJOS 18, 137 - 143 (2021).        
+          Ozan Ş. Taşar D.E. and Özdil U.,  Deep Feature Generation for Author Identification. CBUJOS 18, 137 - 143 (2021).        
         description: |
           <mark>Abstract:</mark> Identifying the authors of a given set of text is a well addressed and complicated task. It requires thorough knowledge of different authors’ writing styles and discriminating them. As the main contribution of this paper, we propose to perform this task using machine learning and deep learning methods, state-of-the-art algorithms, and methods used in numerous complex Natural Language Processing (NLP) problems. We used a text corpus of daily newspaper columns written by thirty authors to perform our experiments. The experimental results proved that document embeddings trained via neural network architecture achieve cutting edge accuracy in learning writing styles and identifying authors of given writings even though the dataset has a considerably unbalanced distribution. We represent our experimental results and outsource our codes for interested readers and natural language processing (NLP) enthusiasts as a GitHub repository. They can reproduce and confirm the results and modify them according to their own needs. 
       - layout: left
@@ -199,7 +199,7 @@ content:
         link: https://doi.org/10.1007/s10844-020-00619-4
         link_text: DOI:10.1007/s10844-020-00619-4
         quote: > 
-          Ozan Ş. Case studies on using natural language processing techniques in customer relationship management software. J Intell Inf Syst 56, 233–253 (2021).        
+          Ozan Ş., Case studies on using natural language processing techniques in customer relationship management software. J Intell Inf Syst 56, 233–253 (2021).        
         description: |
           <mark>Abstract:</mark> How can we use a text corpus stored in a customer relationship management (CRM) database for data mining and segmentation? To answer this question, we inherited the state of the art methods commonly used in natural language processing (NLP) literature, such as word embeddings, and deep learning literature, such as recurrent neural networks (RNN). We used the text notes from a CRM system taken by customer representatives of an internet ads consultancy agency between 2009 and 2020. We trained word embeddings by using the corresponding text corpus and showed that these word embeddings could be used directly for data mining and used in RNN architectures, which are deep learning frameworks built with long short-term memory (LSTM) units, for more comprehensive segmentation objectives. The obtained results prove that we can use structured text data populated in a CRM to mine valuable information. Hence, any CRM can be equipped with useful NLP features once we correctly built the problem definitions and conveniently implement the solution methods.
 
@@ -208,7 +208,7 @@ content:
         link: https://doi.org/10.3906/elk-1711-243
         link_text: DOI:10.3906/elk-1711-243
         quote: > 
-          Ozan Ş. , Gümüştekin Ş. Reconstruction of geometrical and reflection properties of surfaces by using structured light imaging technique. Turkish Journal of Electrical Engineering and Computer Science. 2018; 26(6): 2846-2857.
+          Ozan Ş.  Gümüştekin Ş., Reconstruction of geometrical and reflection properties of surfaces by using structured light imaging technique. Turkish Journal of Electrical Engineering and Computer Science. 2018; 26(6): 2846-2857.
         description: |
           <mark>Abstract:</mark> When a robust and dense surface reconstruction is aimed, structured light imaging techniques are usually much appreciated. In this paper we propose a method to reconstruct both geometrical and reflective properties of surfaces by using structured light imaging. We use a technique where a camera and a projector are both treated as viewing devices. They are calibrated in the same manner. Each visible point can be correctly located on both image planes without solving a correspondence problem; hence, a dense reconstruction can be obtained. Since both the camera and the projector are explicitly calibrated, lighting and viewing directions can be identified for each surface point. It is also possible to measure reflected radiance by using high dynamic range (HDR) images for each surface point. The lighting and viewing directions that are known after calibration are combined with the reflected radiance and the incoming irradiance measurements to determine the bidirectional reflectance distribution function (BRDF) values of the material at the reconstructed surface points. We illustrate the reconstruction of surface reflection properties of sample surfaces by fitting the Phong BRDF model to the BRDF measurements.
       - layout: left
@@ -216,7 +216,7 @@ content:
         link: https://doi.org/10.1016/j.dsp.2013.08.006
         link_text: DOI:10.1016/j.dsp.2013.08.006
         quote: > 
-          Ozan Ş. , Gümüştekin Ş. . Calibration of double stripe 3D laser scanner systems using planarity and orthogonality constraints, Digital Signal Processing,2014; 24: 231-243.
+          Ozan Ş. Gümüştekin Ş., Calibration of double stripe 3D laser scanner systems using planarity and orthogonality constraints, Digital Signal Processing,2014; 24: 231-243.
         description: |
           <mark>Abstract:</mark> In this study, 3D scanning systems that utilize a pair of laser stripes are studied. Three types of scanning systems are implemented to scan environments, rough surfaces of near planar objects and small 3D objects. These scanners make use of double laser stripes to minimize the undesired effect of occlusions. Calibration of these scanning systems is crucially important for the alignment of 3D points which are reconstructed from different stripes. In this paper, the main focus is on the calibration problem, following a treatment on the pre-processing of stripe projections using dynamic programming and localization of 2D image points with sub-pixel accuracy. The 3D points corresponding to laser stripes are used in an optimization procedure that imposes geometrical constraints such as coplanarities and orthogonalities. It is shown that, calibration procedure proposed here, significantly improves the alignment of 3D points scanned using two laser stripes.
       - layout: left
@@ -224,7 +224,7 @@ content:
         link: https://doi.org/10.1049/el.2011.1289
         link_text: DOI:10.1049/el.2011.1289
         quote: > 
-          Ozan Ş. , Gümüştekin Ş. Enhancing stereo matching performance by colour normalisation and specularity removal, 2011; 47(20): 1124-1125.
+          Ozan Ş. Gümüştekin Ş., Enhancing stereo matching performance by colour normalisation and specularity removal, 2011; 47(20): 1124-1125.
         description: |
           <mark>Abstract:</mark> A method to enhance the performance of stereo matching is presented. The position of the specular light reflection on an object surface varies due to the change in the position of the camera, light source, object or all combined. Additionally, there may be situations exhibiting a colour shift owing to a change in the light source chromaticity or camera white balance settings. These variations cause misleading results when stereo matching algorithms are applied. In this reported work, a single-image-based statistical method is used to normalise source images. This process effectively eliminates non-saturated specularities regardless of their positions on the object. The effect of specularity removal is tested on stereo image pairs.
   - title: Projects
