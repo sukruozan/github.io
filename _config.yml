@@ -109,7 +109,7 @@ content:
         quote: >
           Yaşar University is a university, in Izmir, Turkey on the Aegean Sea. The university faculty teaches in English, with programs at both the undergraduate and postgraduate level.
         description: | # this will include new lines to allow paragraphs
-          COMP4360 aims to demonstrate basic aspects of image processing to computer engineering students. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, image compression, and their applications using standard python libraries such as "pillow".
+          COMP4360 - Image Processing, aims to demonstrate basic aspects of image processing to computer engineering students. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, image compression, and their applications using standard python libraries such as "pillow".
       - layout: left
         title: İzmir Katip Çelebi University
         link: https://mee404.github.io/
@@ -119,7 +119,7 @@ content:
         quote: >
           İzmir Kâtip Çelebi University is a public university in İzmir, Turkey, established in 2010.        
         description: | # this will include new lines to allow paragraphs
-          MEE404 aims to demonstrate basic aspects of image processing to machatronics engineering students. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, image compression, and their applications using standard python libraries such as "pillow".
+          MEE404 - Machine Vision in Mechatronics, aims to demonstrate basic aspects of image processing to machatronics engineering students. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, image compression, and their applications using standard python libraries such as "pillow".
       - layout: left
         title: Manisa Celal Bayar University
         link: https://www.mcbu.edu.tr/
@@ -129,7 +129,7 @@ content:
         quote: >
           Manisa Celal Bayar University or is a public research university located in Manisa, Turkey. CBU traces its root back to 1959 as an independent sports and teachers' college in Manisa. The main campus is in Muradiye district of Manisa. The university is composed of 14 colleges, 3 schools, and 15 vocational schools.   
         description: | # this will include new lines to allow paragraphs
-          CSE3113 aims to provide an introduction to image processing. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, and their applications using standard python libraries.
+          CSE3113 - Introduction to Image Processing, aims to provide an introduction to image processing. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, and their applications using standard python libraries.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
