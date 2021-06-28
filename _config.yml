@@ -190,7 +190,7 @@ content:
         link: https://doi.org/xx.xxx/xxxx
         link_text: DOI:xx.xxx/xxxx
         quote: > 
-          Ozan Ş. Taşar D.E. and Özdil U.,  Deep Feature Generation for Author Identification. CBUJOS 18, 137 - 143 (2021).        
+          Ozan Ş. Taşar D.E. and Özdil U.,  Deep Feature Generation for Author Identification. CBUJOS 17(2), 137 - 143 (2021).        
         description: |
           <mark>Abstract:</mark> Identifying the authors of a given set of text is a well addressed and complicated task. It requires thorough knowledge of different authors’ writing styles and discriminating them. As the main contribution of this paper, we propose to perform this task using machine learning and deep learning methods, state-of-the-art algorithms, and methods used in numerous complex Natural Language Processing (NLP) problems. We used a text corpus of daily newspaper columns written by thirty authors to perform our experiments. The experimental results proved that document embeddings trained via neural network architecture achieve cutting edge accuracy in learning writing styles and identifying authors of given writings even though the dataset has a considerably unbalanced distribution. We represent our experimental results and outsource our codes for interested readers and natural language processing (NLP) enthusiasts as a GitHub repository. They can reproduce and confirm the results and modify them according to their own needs. 
       - layout: left
