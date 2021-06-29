@@ -211,7 +211,7 @@ content:
         description: |
           <mark>Abstract:</mark> When a robust and dense surface reconstruction is aimed, structured light imaging techniques are usually much appreciated. In this paper we propose a method to reconstruct both geometrical and reflective properties of surfaces by using structured light imaging. We use a technique where a camera and a projector are both treated as viewing devices. They are calibrated in the same manner. Each visible point can be correctly located on both image planes without solving a correspondence problem; hence, a dense reconstruction can be obtained. Since both the camera and the projector are explicitly calibrated, lighting and viewing directions can be identified for each surface point. It is also possible to measure reflected radiance by using high dynamic range (HDR) images for each surface point. The lighting and viewing directions that are known after calibration are combined with the reflected radiance and the incoming irradiance measurements to determine the bidirectional reflectance distribution function (BRDF) values of the material at the reconstructed surface points. We illustrate the reconstruction of surface reflection properties of sample surfaces by fitting the Phong BRDF model to the BRDF measurements.
       - layout: left
-        sub_title:  Turkish Journal of Electrical Engineering and Computer Science
+        sub_title:  Digital Signal Processing
         link: https://doi.org/10.1016/j.dsp.2013.08.006
         link_text: DOI:10.1016/j.dsp.2013.08.006
         quote: > 
