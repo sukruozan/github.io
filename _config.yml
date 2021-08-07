@@ -262,7 +262,7 @@ content:
         quote: >
           TEYDEB 1501 is a public supported INDUSTRY R&D Project support granted by TÜBİTAK.
         description: | # this will include new lines to allow paragraphs
-          <mark>Project Title:</mark> DEVELOPMENT OF THE SYSTEM THAT PROVIDES THE AUTOMATIC DETECTION OF NEGATIVE CALL CENTER INTERVIEWS WITH DEEP ARTIFICIAL NEURAL NETWORKS BASED CLASSIFICATION ALGORITHMS
+          <mark>Project Title:</mark> DEVELOPMENT OF THE SYSTEM THAT PROVIDES THE AUTOMATIC DETECTION OF NEGATIVE CALL CENTER CALLS WITH DEEP ARTIFICIAL NEURAL NETWORKS BASED CLASSIFICATION ALGORITHMS
 
       - layout: left
         title: TEYDEB 1501
