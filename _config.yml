@@ -13,7 +13,10 @@ website: http://www.sukruozan.com
 # Dark Mode (true/false/never)
 darkmode: false
 
+
+
 # Social links
+linkedin_username: sukruozan
 #twitter_username: facespics
 github_username:  sukruozan
 # stackoverflow_username: "00000001"
@@ -21,7 +24,6 @@ github_username:  sukruozan
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: sukruozan
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
