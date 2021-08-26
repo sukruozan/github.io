@@ -16,9 +16,9 @@ darkmode: false
 
 
 # Social links
-linkedin_username: sukruozan
+#linkedin_username: sukruozan
+#github_username:  sukruozan
 #twitter_username: facespics
-github_username:  sukruozan
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -32,12 +32,18 @@ github_username:  sukruozan
 
 # Additional icon links
 additional_links:
+- title: Şükrü Ozan @ Linkedin
+  icon: fa fa-linkedin
+  url: https://www.adresgezgini.com/ekibimiz/sukru-ozan
+- title: Şükrü Ozan @ GitHub
+  icon: fa fa-linkedin
+  url: https://www.adresgezgini.com/ekibimiz/sukru-ozan  
+- title: Şükrü Ozan @ Google Scholar
+  icon: fa fa-google
+  url: https://scholar.google.com/citations?user=M3vMfZgAAAAJ&hl=en
 - title: Şükrü Ozan @ AdresGezgini Inc.
   icon: fas fa-globe
   url: https://www.adresgezgini.com/ekibimiz/sukru-ozan
-- title: Google Scholar
-  icon: fa fa-google
-  url: https://scholar.google.com/citations?user=M3vMfZgAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
