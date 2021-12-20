@@ -194,6 +194,15 @@ content:
     layout: list
     content:
       - layout: left
+        sub_title: Türkiye Bilişim Vakfı Bilgisayar Bilimleri ve Mühendisliği Dergisi
+        link: https://doi.org/10.54525/tbbmd.1004781
+        link_text: DOI:10.54525/tbbmd.1004781
+        quote: >  
+          Ozan Ş., Özdil U., Taşar D. E., Arslan B. and Polat G.   Increasing the Classification Accuracy of BERT Model with Zero-Shot Learning. TBBMD 14(2), 99 - 108 (2021).     
+        description: |
+          <mark>Abstract:</mark>This study used the BERT model to automatically classify ad texts created on online advertising platforms according to the industry. Our training dataset consists of approximately 101.000 advertisement texts from 44 different sectors labeled with the relevant sector names. It has been observed that the classification performance is low for specific sectors. It has been understood that this is due to some outlier advertising texts in the relevant training dataset. For this reason, the Zero-Shot Learning method, which is a current method in natural language processing (NLP), was used to automatically determine the suitability of the sector and advertisement text and perform a preprocessing for the data set. After this preprocessing study, it was observed that the classification performance of the BERT model, which was retrained with the cleaned data set, increased significantly.
+
+      - layout: left
         sub_title:  Celal Bayar University Journal of Science
         link: https://doi.org/10.18466/cbayarfbe.846016
         link_text: DOI:10.18466/cbayarfbe.846016
