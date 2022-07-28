@@ -193,6 +193,16 @@ content:
   - title: List of Journal Articles
     layout: list
     content:
+    
+     - layout: left
+        sub_title: Expert Systems with Applications
+        link: https://doi.org/10.1016/j.eswa.2022.118173
+        link_text: 10.1016/j.eswa.2022.118173
+        quote: >  
+          Iheme L. O, Ozan Ş.   A novel semi-supervised framework for call center agent malpractice detection via neural feature learning (2022).     
+        description: |
+          <mark>Abstract:</mark>This work presents a practical solution to the problem of call center agent malpractice. A semi-supervised framework comprising nonlinear power transformation, neural feature learning, and clustering is outlined. We put these building blocks together and tuned the parameters to obtain the best performance. The data used in the experiments is obtained from our in-house call center. It is made up of recorded agent–customer conversations, which have been annotated using a convolutional neural network (CNN) based segmenter. The methods provided a means of tuning the neural network parameters to achieve a desirable result. Using our proposed framework, we show that it is possible to significantly reduce the malpractice classification error of k-means and agglomerative clustering models, which would serve the same purpose. By presenting the amount of silence per call as a key performance indicator, we show that the proposed system has increased the efficiency of quality control managers, thus enhancing agents’ performance at our call center since deployment.
+
       - layout: left
         sub_title: Türkiye Bilişim Vakfı Bilgisayar Bilimleri ve Mühendisliği Dergisi
         link: https://doi.org/10.54525/tbbmd.1004781
@@ -266,7 +276,7 @@ content:
       - layout: left
         title: TEYDEB 1501
         sub_title: <mark>Position:</mark> Project Manager
-        caption: <mark>Status:</mark> Continuing
+        caption: <mark>Status:</mark> Completed
         quote: >
           TEYDEB 1501 is a public supported INDUSTRY R&D Project support granted by TÜBİTAK.
         description: | # this will include new lines to allow paragraphs
@@ -275,7 +285,7 @@ content:
       - layout: left
         title: TEYDEB 1501
         sub_title: <mark>Position:</mark> Project Manager
-        caption: <mark>Status:</mark> Continuing
+        caption: <mark>Status:</mark> Completed
         quote: >
           TEYDEB 1501 is a public supported INDUSTRY R&D Project support granted by TÜBİTAK.
         description: | # this will include new lines to allow paragraphs
