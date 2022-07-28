@@ -193,7 +193,6 @@ content:
   - title: List of Journal Articles
     layout: list
     content:
-    
      - layout: left
         sub_title: Expert Systems with Applications
         link: https://doi.org/10.1016/j.eswa.2022.118173
